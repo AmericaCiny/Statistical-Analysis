@@ -6,3 +6,6 @@ Found the optimal business solutions using statistical analysis in R
 
 # Statistical Analysis 2
 Given business criterias such as sample mean, find the probability of events, maximize profits, defective product control, etc.
+
+# Statistical Analysis 3
+Conducted 17 Hypothesis Testings using R
